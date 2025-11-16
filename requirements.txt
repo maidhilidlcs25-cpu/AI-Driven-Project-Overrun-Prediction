@@ -5,5 +5,4 @@ sklearn.ensemble
 streamlit
 pandas
 numpy
-plotly
 joblib
