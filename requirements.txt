@@ -1,8 +1,8 @@
-plotly
-scikit-learn
-pip3
-sklearn.ensemble
 streamlit
+scikit-learn
 pandas
 numpy
+plotly
 joblib
+shap
+matplotlib
