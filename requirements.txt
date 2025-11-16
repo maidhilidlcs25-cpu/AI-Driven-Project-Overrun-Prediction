@@ -1,4 +1,4 @@
 plotly
 scikit-learn
 pip3
-sklearn
+sklearn.ensemble
