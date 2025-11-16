@@ -1,0 +1,501 @@
+project_id,project_type,terrain,planned_cost_crores,planned_timeline_months,material_cost_index,labour_availability_percent,vendor,season_of_start,primary_hindrance,actual_cost_crores,actual_timeline_months,cost_overrun_percent,timeline_overrun_percent
+PG-1001,Overhead Line,Urban,199.99,31,1.19,0.92,Vendor D,Winter,None,223.99,31,12.0,0.0
+PG-1002,Overhead Line,Plains,427.6,47,1.18,0.65,Vendor D,Monsoon,Extreme Weather,508.84,94,19.0,100.0
+PG-1003,Underground Cable,Urban,89.15,38,1.08,0.77,Vendor A,Winter,None,98.96,38,11.0,0.0
+PG-1004,Substation,Plains,427.75,43,0.98,0.88,Vendor A,Summer,Land Acquisition,440.58,43,3.0,0.0
+PG-1005,Overhead Line,Hilly,224.53,30,1.24,0.6,Vendor D,Monsoon,None,312.1,60,39.0,100.0
+PG-1006,Overhead Line,Forest,460.64,16,0.82,0.82,Vendor A,Summer,Extreme Weather,506.7,16,10.0,0.0
+PG-1007,Substation,Plains,214.53,29,1.19,0.8,Vendor A,Post-Monsoon,Local Protests,248.85,29,16.0,0.0
+PG-1008,Underground Cable,Plains,128.66,34,1.02,0.79,Vendor E,Winter,None,137.67,34,7.0,0.0
+PG-1009,Overhead Line,Plains,388.02,28,1.28,0.92,Vendor A,Summer,Land Acquisition,450.1,28,16.0,0.0
+PG-1010,Overhead Line,Hilly,299.17,31,0.96,0.82,Vendor C,Post-Monsoon,Land Acquisition,385.93,62,29.0,100.0
+PG-1011,Underground Cable,Plains,336.29,15,1.34,0.7,Vendor E,Summer,Land Acquisition,423.73,15,26.0,0.0
+PG-1012,Overhead Line,Urban,213.89,47,1.13,0.95,Vendor D,Winter,Local Protests,231.0,47,8.0,0.0
+PG-1013,Underground Cable,Urban,128.84,24,1.49,0.79,Vendor E,Winter,Regulatory Delay,185.53,24,44.0,0.0
+PG-1014,Overhead Line,Hilly,141.83,23,1.35,0.68,Vendor C,Monsoon,Regulatory Delay,235.44,46,66.0,100.0
+PG-1015,Overhead Line,Hilly,270.85,33,1.43,0.79,Vendor E,Post-Monsoon,None,387.32,66,43.0,100.0
+PG-1016,Underground Cable,Plains,173.97,23,1.27,0.78,Vendor B,Monsoon,None,208.76,23,20.0,0.0
+PG-1017,Overhead Line,Hilly,157.39,15,1.29,0.73,Vendor A,Post-Monsoon,Local Protests,217.2,30,38.0,100.0
+PG-1018,Underground Cable,Plains,147.58,33,0.85,0.91,Vendor B,Post-Monsoon,Regulatory Delay,160.86,33,9.0,0.0
+PG-1019,Substation,Urban,491.54,17,1.19,0.82,Vendor E,Winter,None,565.27,17,15.0,0.0
+PG-1020,Overhead Line,Forest,343.17,18,1.46,0.94,Vendor B,Winter,None,473.57,18,38.0,0.0
+PG-1021,Substation,Hilly,326.9,45,1.22,0.76,Vendor C,Summer,Regulatory Delay,513.23,90,57.0,100.0
+PG-1022,Underground Cable,Plains,77.26,22,1.17,0.97,Vendor C,Post-Monsoon,None,91.94,22,19.0,0.0
+PG-1023,Overhead Line,Urban,163.94,43,1.38,0.82,Vendor C,Post-Monsoon,Regulatory Delay,242.63,43,48.0,0.0
+PG-1024,Overhead Line,Hilly,422.7,15,0.91,0.61,Vendor E,Summer,None,519.92,30,23.0,100.0
+PG-1025,Underground Cable,Coastal,464.64,18,1.02,0.85,Vendor D,Summer,Local Protests,492.52,18,6.0,0.0
+PG-1026,Underground Cable,Hilly,220.32,12,0.99,0.63,Vendor C,Winter,Extreme Weather,299.64,24,36.0,100.0
+PG-1027,Underground Cable,Hilly,223.83,47,1.38,0.99,Vendor C,Post-Monsoon,None,322.32,94,44.0,100.0
+PG-1028,Overhead Line,Urban,97.28,17,0.94,0.74,Vendor B,Monsoon,None,102.14,17,5.0,0.0
+PG-1029,Overhead Line,Urban,111.0,39,1.38,0.91,Vendor C,Winter,None,146.52,39,32.0,0.0
+PG-1030,Overhead Line,Hilly,379.7,13,1.22,0.62,Vendor B,Post-Monsoon,Local Protests,523.99,26,38.0,100.0
+PG-1031,Underground Cable,Urban,317.77,33,0.9,0.65,Vendor D,Summer,Regulatory Delay,378.15,33,19.0,0.0
+PG-1032,Underground Cable,Plains,337.13,34,0.98,0.66,Vendor D,Winter,Local Protests,367.47,34,9.0,0.0
+PG-1033,Overhead Line,Plains,482.49,36,1.17,0.62,Vendor E,Monsoon,Regulatory Delay,641.71,72,33.0,100.0
+PG-1034,Overhead Line,Hilly,133.98,35,1.14,0.83,Vendor C,Summer,None,183.55,70,37.0,100.0
+PG-1035,Substation,Urban,260.18,42,0.89,0.61,Vendor A,Winter,Extreme Weather,275.79,42,6.0,0.0
+PG-1036,Overhead Line,Forest,338.78,36,0.8,0.94,Vendor D,Winter,None,355.72,36,5.0,0.0
+PG-1037,Overhead Line,Plains,302.66,29,1.04,0.7,Vendor D,Summer,None,335.95,29,11.0,0.0
+PG-1038,Overhead Line,Plains,495.62,28,1.1,0.98,Vendor B,Winter,None,525.36,28,6.0,0.0
+PG-1039,Substation,Plains,286.24,29,0.94,0.65,Vendor C,Summer,Local Protests,334.9,58,17.0,100.0
+PG-1040,Overhead Line,Hilly,323.55,13,1.05,0.92,Vendor E,Monsoon,Land Acquisition,388.26,26,20.0,100.0
+PG-1041,Underground Cable,Forest,283.74,20,1.1,0.73,Vendor A,Winter,Local Protests,357.51,20,26.0,0.0
+PG-1042,Overhead Line,Urban,86.31,19,1.31,0.73,Vendor E,Winter,Local Protests,107.02,19,23.99,0.0
+PG-1043,Substation,Urban,99.87,37,1.47,1.0,Vendor B,Summer,Land Acquisition,122.84,37,23.0,0.0
+PG-1044,Overhead Line,Urban,497.5,23,1.09,0.96,Vendor E,Winter,Extreme Weather,527.35,23,6.0,0.0
+PG-1045,Underground Cable,Urban,425.41,46,1.31,0.81,Vendor C,Summer,Regulatory Delay,612.59,46,44.0,0.0
+PG-1046,Overhead Line,Urban,379.33,25,1.2,0.82,Vendor A,Summer,None,436.23,25,15.0,0.0
+PG-1047,Substation,Plains,388.8,23,1.04,0.71,Vendor B,Summer,Regulatory Delay,482.11,23,24.0,0.0
+PG-1048,Overhead Line,Hilly,120.82,37,1.19,0.8,Vendor E,Post-Monsoon,None,158.27,74,31.0,100.0
+PG-1049,Overhead Line,Hilly,382.04,33,0.85,0.79,Vendor D,Monsoon,None,435.53,66,14.0,100.0
+PG-1050,Overhead Line,Coastal,274.14,27,0.98,0.93,Vendor C,Winter,None,304.3,27,11.0,0.0
+PG-1051,Overhead Line,Plains,137.81,19,1.3,0.96,Vendor C,Monsoon,None,173.64,19,26.0,0.0
+PG-1052,Substation,Plains,64.41,46,1.38,0.76,Vendor B,Winter,Local Protests,81.16,46,26.01,0.0
+PG-1053,Overhead Line,Urban,109.32,38,1.48,0.86,Vendor D,Monsoon,Local Protests,139.93,76,28.0,100.0
+PG-1054,Overhead Line,Hilly,184.42,21,0.87,0.92,Vendor A,Summer,None,204.71,42,11.0,100.0
+PG-1055,Overhead Line,Coastal,230.71,43,0.95,0.86,Vendor B,Winter,None,235.32,43,2.0,0.0
+PG-1056,Substation,Plains,153.98,13,1.04,0.83,Vendor A,Winter,None,164.76,13,7.0,0.0
+PG-1057,Overhead Line,Plains,84.4,45,1.37,0.94,Vendor D,Winter,Land Acquisition,101.28,45,20.0,0.0
+PG-1058,Substation,Plains,309.99,40,1.01,0.64,Vendor B,Winter,None,344.09,40,11.0,0.0
+PG-1059,Substation,Hilly,331.72,12,1.0,0.69,Vendor E,Winter,None,414.65,24,25.0,100.0
+PG-1060,Overhead Line,Plains,433.92,20,0.84,0.83,Vendor D,Summer,Extreme Weather,420.9,20,-3.0,0.0
+PG-1061,Overhead Line,Hilly,140.86,37,1.02,0.88,Vendor A,Post-Monsoon,Local Protests,169.03,74,20.0,100.0
+PG-1062,Overhead Line,Urban,297.48,34,1.47,0.63,Vendor D,Winter,None,401.6,34,35.0,0.0
+PG-1063,Substation,Plains,239.87,46,1.11,0.7,Vendor D,Monsoon,Regulatory Delay,307.03,92,28.0,100.0
+PG-1064,Overhead Line,Urban,90.17,29,1.43,0.96,Vendor D,Monsoon,Regulatory Delay,122.63,58,36.0,100.0
+PG-1065,Overhead Line,Plains,129.06,16,0.86,0.65,Vendor D,Winter,None,132.93,16,3.0,0.0
+PG-1066,Underground Cable,Plains,482.86,39,1.17,0.93,Vendor C,Monsoon,Regulatory Delay,647.03,78,34.0,100.0
+PG-1067,Substation,Plains,272.58,36,1.11,0.76,Vendor B,Monsoon,None,308.02,36,13.0,0.0
+PG-1068,Substation,Coastal,455.57,36,1.35,0.74,Vendor B,Monsoon,Regulatory Delay,633.24,72,39.0,100.0
+PG-1069,Substation,Urban,127.63,36,1.26,0.71,Vendor C,Summer,None,168.47,36,32.0,0.0
+PG-1070,Substation,Plains,83.16,38,1.04,0.87,Vendor C,Winter,Land Acquisition,96.47,38,16.01,0.0
+PG-1071,Overhead Line,Plains,240.56,32,1.16,0.75,Vendor D,Summer,Land Acquisition,279.05,32,16.0,0.0
+PG-1072,Overhead Line,Forest,102.57,42,0.94,0.69,Vendor B,Monsoon,Regulatory Delay,136.42,84,33.0,100.0
+PG-1073,Substation,Plains,342.2,38,1.05,1.0,Vendor B,Monsoon,Land Acquisition,349.04,76,2.0,100.0
+PG-1074,Overhead Line,Coastal,97.06,16,1.31,0.63,Vendor E,Summer,None,123.27,16,27.0,0.0
+PG-1075,Overhead Line,Forest,298.6,24,1.35,0.6,Vendor A,Monsoon,Regulatory Delay,465.82,48,56.0,100.0
+PG-1076,Overhead Line,Hilly,422.93,47,0.91,0.64,Vendor A,Winter,Land Acquisition,515.97,94,22.0,100.0
+PG-1077,Substation,Plains,141.49,12,1.45,0.62,Vendor C,Winter,Land Acquisition,203.75,24,44.0,100.0
+PG-1078,Overhead Line,Plains,447.37,36,1.03,0.79,Vendor B,Summer,Local Protests,483.16,36,8.0,0.0
+PG-1079,Underground Cable,Urban,269.11,33,1.01,0.67,Vendor A,Monsoon,None,296.02,33,10.0,0.0
+PG-1080,Substation,Plains,296.24,20,0.84,0.73,Vendor C,Post-Monsoon,Extreme Weather,325.86,20,10.0,0.0
+PG-1081,Overhead Line,Plains,323.42,30,1.49,0.63,Vendor B,Monsoon,None,439.85,30,36.0,0.0
+PG-1082,Underground Cable,Plains,356.47,42,1.19,0.68,Vendor B,Winter,None,424.2,42,19.0,0.0
+PG-1083,Overhead Line,Forest,432.49,36,1.33,0.73,Vendor A,Winter,None,596.84,36,38.0,0.0
+PG-1084,Substation,Forest,77.71,12,0.84,0.71,Vendor E,Summer,None,88.59,12,14.0,0.0
+PG-1085,Overhead Line,Urban,326.91,28,1.47,0.67,Vendor E,Winter,Extreme Weather,434.79,28,33.0,0.0
+PG-1086,Overhead Line,Hilly,386.05,39,0.96,0.97,Vendor C,Summer,Land Acquisition,478.7,78,24.0,100.0
+PG-1087,Underground Cable,Urban,156.24,32,1.14,0.98,Vendor A,Post-Monsoon,None,168.74,32,8.0,0.0
+PG-1088,Overhead Line,Urban,145.07,27,0.82,0.81,Vendor E,Winter,Regulatory Delay,159.58,27,10.0,0.0
+PG-1089,Overhead Line,Forest,69.93,27,1.46,0.78,Vendor B,Summer,Land Acquisition,100.0,27,43.0,0.0
+PG-1090,Overhead Line,Plains,122.19,34,0.8,0.62,Vendor C,Monsoon,Land Acquisition,135.63,68,11.0,100.0
+PG-1091,Substation,Urban,260.29,31,0.89,0.85,Vendor E,Summer,Regulatory Delay,291.52,31,12.0,0.0
+PG-1092,Overhead Line,Hilly,488.79,34,1.28,0.91,Vendor B,Summer,None,645.2,68,32.0,100.0
+PG-1093,Overhead Line,Plains,278.22,30,0.9,0.63,Vendor B,Post-Monsoon,None,294.91,30,6.0,0.0
+PG-1094,Overhead Line,Urban,85.29,44,0.95,0.81,Vendor E,Post-Monsoon,Regulatory Delay,99.79,44,17.0,0.0
+PG-1095,Overhead Line,Plains,55.77,28,1.46,0.67,Vendor A,Post-Monsoon,None,74.17,28,32.99,0.0
+PG-1096,Underground Cable,Hilly,146.54,23,0.82,0.71,Vendor B,Summer,Land Acquisition,168.52,46,15.0,100.0
+PG-1097,Substation,Hilly,72.21,44,1.07,0.87,Vendor A,Monsoon,None,88.82,88,23.0,100.0
+PG-1098,Substation,Plains,499.43,37,1.3,0.98,Vendor D,Winter,Local Protests,579.34,37,16.0,0.0
+PG-1099,Underground Cable,Hilly,370.02,44,1.0,0.94,Vendor E,Monsoon,Land Acquisition,432.92,88,17.0,100.0
+PG-1100,Substation,Urban,367.57,25,1.44,0.71,Vendor C,Post-Monsoon,Local Protests,518.27,50,41.0,100.0
+PG-1101,Substation,Urban,214.2,29,1.23,0.67,Vendor B,Summer,Local Protests,259.18,29,21.0,0.0
+PG-1102,Substation,Plains,299.63,47,1.33,0.72,Vendor D,Post-Monsoon,Regulatory Delay,413.49,47,38.0,0.0
+PG-1103,Underground Cable,Urban,129.45,31,0.95,0.64,Vendor E,Monsoon,Land Acquisition,139.81,62,8.0,100.0
+PG-1104,Overhead Line,Urban,443.85,30,1.23,0.88,Vendor B,Summer,None,510.43,30,15.0,0.0
+PG-1105,Substation,Hilly,349.36,47,1.08,0.98,Vendor A,Summer,Local Protests,419.23,94,20.0,100.0
+PG-1106,Overhead Line,Plains,77.07,45,1.28,0.71,Vendor B,Summer,None,94.8,45,23.01,0.0
+PG-1107,Substation,Plains,354.12,39,1.25,0.75,Vendor E,Monsoon,None,424.94,39,20.0,0.0
+PG-1108,Substation,Hilly,442.68,38,0.87,0.95,Vendor B,Monsoon,None,486.95,76,10.0,100.0
+PG-1109,Overhead Line,Hilly,172.24,45,1.32,1.0,Vendor D,Winter,Local Protests,225.63,90,31.0,100.0
+PG-1110,Overhead Line,Plains,56.14,33,0.95,0.93,Vendor E,Summer,Regulatory Delay,63.44,33,13.0,0.0
+PG-1111,Underground Cable,Urban,207.34,42,1.0,0.65,Vendor A,Winter,None,228.07,42,10.0,0.0
+PG-1112,Overhead Line,Plains,353.12,47,1.15,0.93,Vendor E,Winter,None,388.43,47,10.0,0.0
+PG-1113,Overhead Line,Plains,60.52,18,0.83,0.66,Vendor A,Post-Monsoon,None,61.73,18,2.0,0.0
+PG-1114,Substation,Plains,83.38,29,1.1,0.78,Vendor B,Winter,Regulatory Delay,104.22,29,24.99,0.0
+PG-1115,Substation,Urban,491.58,24,1.19,0.69,Vendor A,Summer,None,584.98,24,19.0,0.0
+PG-1116,Overhead Line,Coastal,365.23,43,1.11,0.84,Vendor B,Summer,None,401.75,43,10.0,0.0
+PG-1117,Overhead Line,Hilly,380.44,29,0.96,0.99,Vendor D,Monsoon,Extreme Weather,433.7,58,14.0,100.0
+PG-1118,Underground Cable,Hilly,328.46,19,1.4,0.81,Vendor A,Summer,None,463.13,38,41.0,100.0
+PG-1119,Underground Cable,Plains,293.84,38,1.35,0.65,Vendor B,Summer,Land Acquisition,376.12,38,28.0,0.0
+PG-1120,Overhead Line,Urban,430.05,34,1.08,0.74,Vendor C,Winter,Land Acquisition,524.66,34,22.0,0.0
+PG-1121,Overhead Line,Plains,167.45,38,1.25,0.93,Vendor A,Summer,Land Acquisition,192.57,38,15.0,0.0
+PG-1122,Underground Cable,Urban,279.76,44,0.97,0.65,Vendor D,Monsoon,Regulatory Delay,341.31,88,22.0,100.0
+PG-1123,Substation,Urban,466.55,27,1.39,0.91,Vendor D,Post-Monsoon,None,569.19,27,22.0,0.0
+PG-1124,Substation,Forest,98.62,32,0.96,0.81,Vendor A,Post-Monsoon,None,115.39,32,17.0,0.0
+PG-1125,Overhead Line,Coastal,153.16,40,1.47,0.77,Vendor C,Post-Monsoon,None,214.42,40,40.0,0.0
+PG-1126,Substation,Coastal,300.1,41,1.34,0.63,Vendor B,Post-Monsoon,Local Protests,384.13,41,28.0,0.0
+PG-1127,Underground Cable,Hilly,326.05,27,1.26,0.69,Vendor E,Summer,Regulatory Delay,492.34,54,51.0,100.0
+PG-1128,Substation,Plains,95.32,46,1.29,0.98,Vendor C,Post-Monsoon,Extreme Weather,119.15,46,25.0,0.0
+PG-1129,Overhead Line,Plains,362.57,22,1.06,0.64,Vendor C,Winter,None,449.59,22,24.0,0.0
+PG-1130,Substation,Urban,404.88,12,1.05,0.64,Vendor C,Summer,None,498.0,12,23.0,0.0
+PG-1131,Substation,Plains,214.63,22,1.34,0.93,Vendor E,Monsoon,Local Protests,255.41,44,19.0,100.0
+PG-1132,Underground Cable,Plains,169.8,43,1.29,0.76,Vendor A,Post-Monsoon,None,207.16,43,22.0,0.0
+PG-1133,Overhead Line,Hilly,299.95,12,1.1,0.62,Vendor C,Monsoon,Regulatory Delay,464.92,24,55.0,100.0
+PG-1134,Overhead Line,Hilly,478.88,19,1.49,0.67,Vendor B,Summer,None,718.32,38,50.0,100.0
+PG-1135,Substation,Forest,256.28,34,0.8,0.65,Vendor E,Winter,Local Protests,292.16,34,14.0,0.0
+PG-1136,Substation,Forest,69.92,42,1.13,0.85,Vendor A,Winter,None,86.7,42,24.0,0.0
+PG-1137,Substation,Urban,398.56,25,0.88,0.74,Vendor D,Post-Monsoon,Local Protests,406.53,25,2.0,0.0
+PG-1138,Overhead Line,Hilly,382.34,19,1.25,0.64,Vendor D,Winter,None,531.45,38,39.0,100.0
+PG-1139,Overhead Line,Plains,369.43,29,1.29,0.91,Vendor B,Post-Monsoon,None,432.23,29,17.0,0.0
+PG-1140,Overhead Line,Urban,127.92,39,1.39,0.86,Vendor A,Summer,Regulatory Delay,175.25,39,37.0,0.0
+PG-1141,Substation,Urban,173.83,13,1.18,0.85,Vendor E,Monsoon,None,198.17,13,14.0,0.0
+PG-1142,Overhead Line,Coastal,195.87,12,0.83,0.63,Vendor E,Winter,None,201.75,12,3.0,0.0
+PG-1143,Overhead Line,Forest,401.39,13,1.16,0.91,Vendor D,Winter,None,497.72,13,24.0,0.0
+PG-1144,Underground Cable,Plains,240.18,44,1.49,0.91,Vendor B,Monsoon,None,305.03,44,27.0,0.0
+PG-1145,Substation,Coastal,231.8,15,1.26,0.6,Vendor A,Winter,Extreme Weather,289.75,15,25.0,0.0
+PG-1146,Overhead Line,Coastal,377.19,23,1.2,0.73,Vendor B,Summer,None,445.08,23,18.0,0.0
+PG-1147,Substation,Plains,484.97,29,1.2,0.86,Vendor E,Monsoon,Local Protests,552.87,58,14.0,100.0
+PG-1148,Overhead Line,Forest,194.05,13,1.19,0.84,Vendor D,Monsoon,None,248.38,13,28.0,0.0
+PG-1149,Underground Cable,Urban,349.18,40,1.42,0.78,Vendor A,Post-Monsoon,None,446.95,40,28.0,0.0
+PG-1150,Overhead Line,Urban,335.37,38,1.24,0.86,Vendor B,Post-Monsoon,Local Protests,389.03,38,16.0,0.0
+PG-1151,Overhead Line,Forest,478.56,19,1.45,0.92,Vendor D,Monsoon,Regulatory Delay,727.41,38,52.0,100.0
+PG-1152,Overhead Line,Plains,92.41,43,0.82,0.88,Vendor D,Monsoon,None,87.79,43,-5.0,0.0
+PG-1153,Underground Cable,Urban,452.38,41,1.42,0.93,Vendor E,Winter,Local Protests,556.43,41,23.0,0.0
+PG-1154,Substation,Coastal,95.3,36,1.13,0.84,Vendor A,Winter,None,105.78,36,11.0,0.0
+PG-1155,Substation,Urban,254.04,42,1.25,0.85,Vendor A,Post-Monsoon,Extreme Weather,297.23,42,17.0,0.0
+PG-1156,Overhead Line,Urban,244.77,47,1.1,0.86,Vendor C,Winter,None,291.28,47,19.0,0.0
+PG-1157,Substation,Urban,347.78,44,1.15,0.82,Vendor B,Post-Monsoon,Land Acquisition,392.99,44,13.0,0.0
+PG-1158,Overhead Line,Coastal,472.3,26,1.08,0.7,Vendor A,Monsoon,Local Protests,533.7,52,13.0,100.0
+PG-1159,Underground Cable,Plains,258.65,21,1.11,0.64,Vendor B,Winter,Local Protests,300.03,21,16.0,0.0
+PG-1160,Substation,Hilly,170.81,19,1.47,0.92,Vendor C,Post-Monsoon,Land Acquisition,257.92,38,51.0,100.0
+PG-1161,Overhead Line,Plains,77.52,43,1.3,0.76,Vendor A,Winter,Local Protests,94.57,43,21.99,0.0
+PG-1162,Overhead Line,Plains,418.34,25,1.38,0.63,Vendor D,Summer,None,543.84,25,30.0,0.0
+PG-1163,Overhead Line,Urban,86.62,19,0.96,0.67,Vendor A,Post-Monsoon,Regulatory Delay,104.81,19,21.0,0.0
+PG-1164,Substation,Coastal,470.7,32,0.81,0.91,Vendor E,Monsoon,Regulatory Delay,503.65,64,7.0,100.0
+PG-1165,Overhead Line,Urban,454.25,32,1.4,0.96,Vendor A,Winter,None,549.64,32,21.0,0.0
+PG-1166,Underground Cable,Urban,408.57,20,1.07,0.65,Vendor B,Winter,None,465.77,20,14.0,0.0
+PG-1167,Substation,Urban,72.72,19,1.49,0.9,Vendor B,Post-Monsoon,Extreme Weather,92.35,19,26.99,0.0
+PG-1168,Overhead Line,Plains,477.56,25,1.27,0.85,Vendor B,Summer,Local Protests,563.52,25,18.0,0.0
+PG-1169,Overhead Line,Hilly,93.83,35,1.23,0.98,Vendor E,Summer,Extreme Weather,119.16,70,27.0,100.0
+PG-1170,Overhead Line,Plains,401.98,31,1.46,0.65,Vendor C,Summer,None,574.83,31,43.0,0.0
+PG-1171,Overhead Line,Hilly,336.82,33,1.29,0.8,Vendor D,Winter,None,458.08,66,36.0,100.0
+PG-1172,Substation,Plains,465.7,37,1.27,0.99,Vendor B,Post-Monsoon,Regulatory Delay,591.44,37,27.0,0.0
+PG-1173,Underground Cable,Forest,150.66,46,0.98,0.63,Vendor E,Post-Monsoon,Regulatory Delay,206.4,46,37.0,0.0
+PG-1174,Overhead Line,Plains,228.56,45,1.47,0.89,Vendor A,Post-Monsoon,None,290.27,45,27.0,0.0
+PG-1175,Underground Cable,Plains,68.48,22,1.43,0.96,Vendor B,Winter,None,84.23,22,23.0,0.0
+PG-1176,Overhead Line,Urban,94.16,46,1.12,0.94,Vendor C,Monsoon,None,111.11,46,18.0,0.0
+PG-1177,Overhead Line,Hilly,282.06,17,0.81,0.94,Vendor E,Monsoon,Land Acquisition,304.62,34,8.0,100.0
+PG-1178,Overhead Line,Plains,311.34,43,1.26,0.65,Vendor E,Winter,Extreme Weather,382.95,43,23.0,0.0
+PG-1179,Underground Cable,Hilly,370.04,47,1.44,0.96,Vendor A,Summer,Local Protests,514.36,94,39.0,100.0
+PG-1180,Substation,Plains,349.82,26,1.4,0.73,Vendor D,Winter,Regulatory Delay,493.25,26,41.0,0.0
+PG-1181,Overhead Line,Coastal,353.13,17,1.43,0.87,Vendor C,Summer,Land Acquisition,476.73,17,35.0,0.0
+PG-1182,Substation,Plains,200.26,46,1.28,0.78,Vendor D,Winter,Land Acquisition,242.31,46,21.0,0.0
+PG-1183,Overhead Line,Coastal,95.84,40,1.23,0.93,Vendor A,Winter,None,109.26,40,14.0,0.0
+PG-1184,Overhead Line,Plains,348.08,37,1.11,0.71,Vendor C,Post-Monsoon,Land Acquisition,431.62,74,24.0,100.0
+PG-1185,Underground Cable,Urban,264.14,12,1.09,0.61,Vendor D,Post-Monsoon,Regulatory Delay,343.38,12,30.0,0.0
+PG-1186,Substation,Urban,269.45,20,1.07,0.93,Vendor E,Post-Monsoon,None,285.62,20,6.0,0.0
+PG-1187,Substation,Forest,279.18,14,0.85,0.62,Vendor A,Summer,Local Protests,326.64,14,17.0,0.0
+PG-1188,Overhead Line,Hilly,73.29,17,1.12,0.79,Vendor B,Post-Monsoon,Regulatory Delay,103.34,34,41.0,100.0
+PG-1189,Substation,Forest,369.09,26,1.36,0.88,Vendor E,Summer,None,498.27,26,35.0,0.0
+PG-1190,Substation,Plains,301.13,35,0.83,0.7,Vendor A,Winter,Land Acquisition,301.13,35,0.0,0.0
+PG-1191,Overhead Line,Hilly,102.78,44,1.43,0.95,Vendor A,Monsoon,None,141.84,88,38.0,100.0
+PG-1192,Substation,Urban,79.75,27,1.11,0.91,Vendor C,Winter,None,94.1,27,17.99,0.0
+PG-1193,Substation,Urban,344.67,45,1.48,0.85,Vendor A,Post-Monsoon,Local Protests,441.18,45,28.0,0.0
+PG-1194,Substation,Plains,100.71,25,1.47,0.87,Vendor B,Summer,Local Protests,127.9,25,27.0,0.0
+PG-1195,Overhead Line,Plains,167.67,44,1.29,0.69,Vendor C,Winter,Local Protests,224.68,88,34.0,100.0
+PG-1196,Substation,Plains,377.73,24,1.47,0.9,Vendor D,Monsoon,Land Acquisition,475.94,48,26.0,100.0
+PG-1197,Substation,Plains,272.82,44,0.93,0.87,Vendor C,Post-Monsoon,Local Protests,300.1,44,10.0,0.0
+PG-1198,Overhead Line,Plains,132.4,18,0.96,0.61,Vendor C,Winter,None,158.88,18,20.0,0.0
+PG-1199,Underground Cable,Urban,433.85,22,0.96,0.78,Vendor D,Winter,None,455.54,22,5.0,0.0
+PG-1200,Underground Cable,Plains,440.76,36,0.92,0.62,Vendor D,Winter,Land Acquisition,471.61,36,7.0,0.0
+PG-1201,Substation,Hilly,327.1,43,0.86,0.9,Vendor E,Summer,None,363.08,86,11.0,100.0
+PG-1202,Underground Cable,Hilly,213.29,30,1.28,0.8,Vendor A,Monsoon,None,287.94,60,35.0,100.0
+PG-1203,Overhead Line,Urban,189.15,16,1.15,0.82,Vendor C,Monsoon,Regulatory Delay,257.24,32,36.0,100.0
+PG-1204,Substation,Plains,186.89,37,0.98,0.7,Vendor C,Monsoon,Land Acquisition,220.53,74,18.0,100.0
+PG-1205,Overhead Line,Plains,74.16,22,1.12,0.61,Vendor B,Monsoon,Local Protests,87.51,44,18.0,100.0
+PG-1206,Substation,Hilly,150.36,15,1.13,0.6,Vendor E,Winter,Local Protests,201.48,30,34.0,100.0
+PG-1207,Overhead Line,Plains,458.27,30,1.26,0.81,Vendor D,Winter,None,545.34,30,19.0,0.0
+PG-1208,Overhead Line,Forest,372.75,44,0.93,0.98,Vendor C,Post-Monsoon,None,447.3,44,20.0,0.0
+PG-1209,Overhead Line,Urban,63.93,35,0.93,0.64,Vendor A,Winter,Regulatory Delay,77.36,35,21.01,0.0
+PG-1210,Substation,Urban,350.88,47,1.01,0.85,Vendor D,Monsoon,None,368.42,47,5.0,0.0
+PG-1211,Overhead Line,Hilly,262.46,42,1.31,0.92,Vendor C,Monsoon,None,375.32,84,43.0,100.0
+PG-1212,Underground Cable,Plains,157.06,47,1.18,0.63,Vendor A,Post-Monsoon,Local Protests,188.47,47,20.0,0.0
+PG-1213,Underground Cable,Urban,290.61,19,1.19,0.69,Vendor E,Monsoon,None,345.83,19,19.0,0.0
+PG-1214,Substation,Plains,229.64,42,1.01,0.74,Vendor C,Monsoon,Extreme Weather,270.98,84,18.0,100.0
+PG-1215,Overhead Line,Plains,373.78,41,0.92,0.86,Vendor E,Summer,None,373.78,41,0.0,0.0
+PG-1216,Underground Cable,Coastal,64.14,34,1.04,0.78,Vendor E,Winter,Regulatory Delay,78.25,34,22.0,0.0
+PG-1217,Underground Cable,Plains,125.56,32,1.19,0.71,Vendor D,Summer,None,148.16,32,18.0,0.0
+PG-1218,Underground Cable,Forest,225.82,28,1.27,0.72,Vendor B,Summer,None,304.86,28,35.0,0.0
+PG-1219,Underground Cable,Hilly,102.89,13,1.19,0.82,Vendor E,Winter,None,133.76,26,30.0,100.0
+PG-1220,Overhead Line,Plains,63.41,18,1.35,0.6,Vendor D,Monsoon,Land Acquisition,82.43,36,30.0,100.0
+PG-1221,Overhead Line,Hilly,223.13,41,1.38,0.79,Vendor E,Post-Monsoon,Land Acquisition,314.61,82,41.0,100.0
+PG-1222,Substation,Plains,346.44,13,0.97,0.79,Vendor D,Post-Monsoon,None,363.76,13,5.0,0.0
+PG-1223,Substation,Coastal,70.32,30,0.93,0.66,Vendor C,Winter,None,82.27,30,16.99,0.0
+PG-1224,Underground Cable,Hilly,73.87,19,1.13,0.94,Vendor B,Winter,None,91.6,38,24.0,100.0
+PG-1225,Substation,Plains,110.06,17,1.26,0.9,Vendor D,Summer,None,127.67,17,16.0,0.0
+PG-1226,Substation,Hilly,476.94,40,1.16,0.75,Vendor D,Monsoon,Local Protests,624.79,80,31.0,100.0
+PG-1227,Underground Cable,Plains,102.68,22,0.92,0.9,Vendor A,Winter,None,101.65,22,-1.0,0.0
+PG-1228,Overhead Line,Hilly,372.5,22,0.94,0.88,Vendor D,Summer,None,432.1,44,16.0,100.0
+PG-1229,Overhead Line,Hilly,159.95,13,1.12,0.7,Vendor D,Winter,Local Protests,207.94,26,30.0,100.0
+PG-1230,Overhead Line,Urban,137.59,43,1.1,0.98,Vendor B,Monsoon,None,145.85,43,6.0,0.0
+PG-1231,Substation,Plains,479.96,14,1.04,0.93,Vendor B,Summer,None,499.16,14,4.0,0.0
+PG-1232,Overhead Line,Forest,181.05,29,1.29,0.61,Vendor A,Summer,None,251.66,29,39.0,0.0
+PG-1233,Overhead Line,Plains,251.56,19,0.88,0.77,Vendor C,Monsoon,None,279.23,19,11.0,0.0
+PG-1234,Substation,Coastal,157.73,30,0.82,0.84,Vendor A,Monsoon,None,151.42,30,-4.0,0.0
+PG-1235,Overhead Line,Coastal,78.44,44,1.32,0.65,Vendor D,Post-Monsoon,Land Acquisition,99.62,44,27.0,0.0
+PG-1236,Substation,Forest,55.53,35,1.27,0.64,Vendor B,Monsoon,None,76.63,35,38.0,0.0
+PG-1237,Substation,Plains,384.84,22,1.26,0.78,Vendor E,Post-Monsoon,None,461.81,22,20.0,0.0
+PG-1238,Overhead Line,Plains,452.21,37,1.04,0.89,Vendor B,Summer,Extreme Weather,474.82,37,5.0,0.0
+PG-1239,Overhead Line,Plains,409.07,47,1.41,0.83,Vendor B,Winter,None,515.43,47,26.0,0.0
+PG-1240,Substation,Coastal,203.88,12,0.81,0.89,Vendor C,Post-Monsoon,None,212.04,12,4.0,0.0
+PG-1241,Overhead Line,Urban,52.92,19,0.94,0.89,Vendor E,Monsoon,Land Acquisition,52.92,38,0.0,100.0
+PG-1242,Substation,Plains,278.6,46,0.87,0.78,Vendor D,Winter,Land Acquisition,278.6,46,0.0,0.0
+PG-1243,Underground Cable,Urban,330.3,41,0.81,0.85,Vendor B,Summer,Local Protests,313.78,41,-5.0,0.0
+PG-1244,Underground Cable,Plains,176.42,21,1.03,0.97,Vendor C,Post-Monsoon,Regulatory Delay,222.29,21,26.0,0.0
+PG-1245,Substation,Coastal,437.47,32,1.24,0.87,Vendor D,Winter,None,507.47,32,16.0,0.0
+PG-1246,Underground Cable,Plains,336.03,24,1.2,0.91,Vendor C,Winter,Land Acquisition,413.32,24,23.0,0.0
+PG-1247,Overhead Line,Coastal,325.36,34,0.96,0.79,Vendor E,Summer,None,338.37,34,4.0,0.0
+PG-1248,Overhead Line,Forest,361.72,39,1.25,0.68,Vendor C,Post-Monsoon,None,524.49,39,45.0,0.0
+PG-1249,Substation,Plains,420.54,42,1.03,0.91,Vendor E,Winter,Extreme Weather,437.36,42,4.0,0.0
+PG-1250,Overhead Line,Urban,88.04,34,1.04,0.71,Vendor D,Monsoon,Extreme Weather,97.72,68,11.0,100.0
+PG-1251,Overhead Line,Forest,246.27,45,1.07,0.81,Vendor C,Summer,None,325.08,45,32.0,0.0
+PG-1252,Substation,Urban,301.93,39,0.98,0.83,Vendor B,Summer,Land Acquisition,314.01,39,4.0,0.0
+PG-1253,Substation,Hilly,212.7,47,0.81,0.79,Vendor B,Winter,None,238.22,94,12.0,100.0
+PG-1254,Substation,Urban,106.31,35,1.35,0.65,Vendor A,Summer,Land Acquisition,136.08,35,28.0,0.0
+PG-1255,Overhead Line,Plains,90.95,24,0.85,0.78,Vendor B,Summer,None,90.04,24,-1.0,0.0
+PG-1256,Substation,Hilly,334.38,14,1.29,0.67,Vendor A,Post-Monsoon,None,468.13,28,40.0,100.0
+PG-1257,Overhead Line,Plains,157.24,38,1.46,0.65,Vendor C,Monsoon,None,224.85,76,43.0,100.0
+PG-1258,Substation,Urban,191.36,25,0.96,0.89,Vendor A,Monsoon,Extreme Weather,193.27,50,1.0,100.0
+PG-1259,Underground Cable,Hilly,224.97,46,0.98,0.75,Vendor E,Post-Monsoon,None,274.46,92,22.0,100.0
+PG-1260,Overhead Line,Plains,348.83,37,1.29,0.78,Vendor B,Post-Monsoon,Local Protests,422.08,37,21.0,0.0
+PG-1261,Substation,Coastal,435.0,46,1.0,0.91,Vendor E,Post-Monsoon,Land Acquisition,448.05,46,3.0,0.0
+PG-1262,Overhead Line,Forest,473.85,26,0.99,0.86,Vendor C,Post-Monsoon,None,601.79,26,27.0,0.0
+PG-1263,Substation,Hilly,105.85,22,1.49,0.97,Vendor C,Summer,None,159.83,44,51.0,100.0
+PG-1264,Underground Cable,Urban,363.99,42,0.98,0.88,Vendor E,Post-Monsoon,Regulatory Delay,422.23,42,16.0,0.0
+PG-1265,Overhead Line,Plains,119.3,45,1.39,0.65,Vendor C,Monsoon,Regulatory Delay,182.53,90,53.0,100.0
+PG-1266,Underground Cable,Hilly,272.85,24,1.44,0.83,Vendor E,Post-Monsoon,None,387.45,48,42.0,100.0
+PG-1267,Overhead Line,Hilly,240.7,35,1.19,0.96,Vendor E,Winter,Regulatory Delay,334.57,70,39.0,100.0
+PG-1268,Underground Cable,Plains,393.13,23,1.25,0.89,Vendor D,Summer,None,456.03,23,16.0,0.0
+PG-1269,Substation,Hilly,240.55,44,0.8,0.92,Vendor C,Post-Monsoon,Regulatory Delay,315.12,88,31.0,100.0
+PG-1270,Substation,Urban,57.31,13,1.47,0.66,Vendor C,Winter,Extreme Weather,82.53,26,44.01,100.0
+PG-1271,Underground Cable,Plains,66.02,19,0.94,0.66,Vendor B,Winter,Land Acquisition,70.64,19,7.0,0.0
+PG-1272,Substation,Forest,474.6,21,1.45,0.71,Vendor A,Monsoon,None,683.42,21,44.0,0.0
+PG-1273,Overhead Line,Coastal,51.64,35,1.22,0.83,Vendor B,Winter,Land Acquisition,59.9,35,16.0,0.0
+PG-1274,Overhead Line,Forest,372.73,33,0.97,0.91,Vendor D,Monsoon,Regulatory Delay,477.09,66,28.0,100.0
+PG-1275,Overhead Line,Coastal,335.32,40,1.26,0.65,Vendor A,Monsoon,None,412.44,40,23.0,0.0
+PG-1276,Overhead Line,Plains,317.82,38,0.95,0.89,Vendor C,Post-Monsoon,None,352.78,38,11.0,0.0
+PG-1277,Substation,Urban,495.54,41,1.09,0.62,Vendor C,Winter,Regulatory Delay,688.8,82,39.0,100.0
+PG-1278,Overhead Line,Urban,439.65,29,1.46,0.73,Vendor E,Summer,None,575.94,29,31.0,0.0
+PG-1279,Substation,Urban,182.62,40,1.22,0.83,Vendor A,Winter,None,211.84,40,16.0,0.0
+PG-1280,Substation,Plains,429.43,23,1.01,0.67,Vendor C,Summer,None,515.32,23,20.0,0.0
+PG-1281,Substation,Hilly,263.43,17,1.29,0.77,Vendor A,Winter,Local Protests,360.9,34,37.0,100.0
+PG-1282,Overhead Line,Forest,132.78,22,0.89,0.95,Vendor D,Summer,Extreme Weather,144.73,22,9.0,0.0
+PG-1283,Overhead Line,Coastal,394.28,20,1.27,0.65,Vendor B,Monsoon,Extreme Weather,488.91,40,24.0,100.0
+PG-1284,Overhead Line,Plains,192.8,19,1.04,0.9,Vendor C,Summer,Land Acquisition,221.72,19,15.0,0.0
+PG-1285,Overhead Line,Plains,258.71,32,1.46,1.0,Vendor A,Post-Monsoon,None,318.21,32,23.0,0.0
+PG-1286,Substation,Hilly,341.6,43,1.42,0.71,Vendor A,Post-Monsoon,Regulatory Delay,539.73,86,58.0,100.0
+PG-1287,Overhead Line,Urban,217.41,20,1.36,0.85,Vendor C,Post-Monsoon,None,286.98,20,32.0,0.0
+PG-1288,Substation,Hilly,107.48,32,0.98,0.8,Vendor B,Post-Monsoon,None,128.98,64,20.0,100.0
+PG-1289,Overhead Line,Plains,190.17,33,1.31,0.93,Vendor C,Winter,None,241.52,33,27.0,0.0
+PG-1290,Underground Cable,Hilly,469.19,40,1.48,0.82,Vendor D,Monsoon,Local Protests,680.33,80,45.0,100.0
+PG-1291,Overhead Line,Forest,291.49,25,1.41,0.7,Vendor D,Winter,Land Acquisition,416.83,25,43.0,0.0
+PG-1292,Overhead Line,Urban,129.5,31,1.48,0.99,Vendor C,Winter,Extreme Weather,173.53,31,34.0,0.0
+PG-1293,Underground Cable,Hilly,245.16,41,1.48,0.8,Vendor B,Monsoon,Land Acquisition,355.48,82,45.0,100.0
+PG-1294,Overhead Line,Urban,203.59,25,1.13,0.84,Vendor D,Post-Monsoon,Land Acquisition,225.98,25,11.0,0.0
+PG-1295,Substation,Forest,185.32,40,1.36,0.79,Vendor B,Monsoon,Land Acquisition,255.74,80,38.0,100.0
+PG-1296,Overhead Line,Plains,285.61,43,0.89,0.69,Vendor B,Monsoon,None,297.03,43,4.0,0.0
+PG-1297,Overhead Line,Coastal,117.35,22,0.94,0.9,Vendor A,Summer,Regulatory Delay,132.61,22,13.0,0.0
+PG-1298,Substation,Hilly,328.01,31,1.14,0.84,Vendor B,Summer,None,416.57,62,27.0,100.0
+PG-1299,Substation,Plains,397.89,38,1.27,0.67,Vendor B,Winter,None,489.4,38,23.0,0.0
+PG-1300,Overhead Line,Urban,63.24,46,1.17,0.93,Vendor C,Monsoon,Regulatory Delay,84.74,92,34.0,100.0
+PG-1301,Substation,Plains,184.94,28,1.23,0.95,Vendor C,Monsoon,None,227.48,28,23.0,0.0
+PG-1302,Overhead Line,Plains,336.73,25,1.26,0.77,Vendor B,Summer,None,404.08,25,20.0,0.0
+PG-1303,Substation,Hilly,217.93,47,0.87,0.77,Vendor D,Monsoon,None,252.8,94,16.0,100.0
+PG-1304,Overhead Line,Plains,343.48,42,1.29,0.87,Vendor A,Summer,None,405.31,42,18.0,0.0
+PG-1305,Overhead Line,Hilly,239.09,45,1.25,0.85,Vendor C,Post-Monsoon,Local Protests,339.51,90,42.0,100.0
+PG-1306,Overhead Line,Plains,429.74,25,1.39,0.91,Vendor E,Winter,Land Acquisition,524.28,25,22.0,0.0
+PG-1307,Substation,Hilly,412.08,39,1.1,0.82,Vendor B,Summer,None,519.22,78,26.0,100.0
+PG-1308,Overhead Line,Hilly,474.23,36,1.48,0.8,Vendor A,Summer,None,687.63,72,45.0,100.0
+PG-1309,Underground Cable,Plains,373.36,26,1.2,0.89,Vendor B,Monsoon,Extreme Weather,421.9,52,13.0,100.0
+PG-1310,Overhead Line,Coastal,398.52,41,1.25,0.91,Vendor B,Winter,None,458.3,41,15.0,0.0
+PG-1311,Overhead Line,Urban,228.26,39,0.84,0.88,Vendor D,Monsoon,Extreme Weather,219.13,78,-4.0,100.0
+PG-1312,Overhead Line,Forest,129.48,15,0.93,0.94,Vendor D,Summer,None,145.02,15,12.0,0.0
+PG-1313,Overhead Line,Plains,285.47,17,1.4,0.87,Vendor B,Summer,Local Protests,353.98,17,24.0,0.0
+PG-1314,Overhead Line,Plains,97.46,30,1.07,0.83,Vendor E,Post-Monsoon,None,106.23,30,9.0,0.0
+PG-1315,Underground Cable,Coastal,402.37,39,1.06,0.89,Vendor D,Summer,None,426.51,39,6.0,0.0
+PG-1316,Substation,Plains,350.19,24,1.42,0.84,Vendor D,Post-Monsoon,None,441.24,24,26.0,0.0
+PG-1317,Substation,Plains,387.4,13,0.9,0.9,Vendor B,Winter,None,379.65,13,-2.0,0.0
+PG-1318,Overhead Line,Urban,372.71,21,1.09,0.61,Vendor E,Winter,None,432.34,21,16.0,0.0
+PG-1319,Substation,Hilly,51.77,46,1.49,0.78,Vendor D,Post-Monsoon,Local Protests,75.58,92,45.99,100.0
+PG-1320,Underground Cable,Forest,152.96,40,0.9,0.65,Vendor D,Winter,None,182.02,40,19.0,0.0
+PG-1321,Underground Cable,Hilly,464.28,15,1.46,0.76,Vendor A,Summer,Regulatory Delay,738.21,30,59.0,100.0
+PG-1322,Underground Cable,Hilly,130.9,46,0.93,0.63,Vendor D,Post-Monsoon,None,161.01,92,23.0,100.0
+PG-1323,Overhead Line,Plains,376.12,12,1.0,0.76,Vendor B,Winter,Land Acquisition,402.45,12,7.0,0.0
+PG-1324,Overhead Line,Plains,222.07,19,1.31,0.98,Vendor D,Monsoon,None,257.6,19,16.0,0.0
+PG-1325,Substation,Hilly,326.34,38,1.14,0.81,Vendor E,Winter,None,417.72,76,28.0,100.0
+PG-1326,Overhead Line,Plains,436.03,33,1.27,0.87,Vendor B,Monsoon,Land Acquisition,510.16,66,17.0,100.0
+PG-1327,Substation,Urban,403.29,42,1.4,0.87,Vendor E,Winter,Land Acquisition,500.08,42,24.0,0.0
+PG-1328,Overhead Line,Coastal,473.22,22,1.48,0.63,Vendor C,Winter,Land Acquisition,686.17,44,45.0,100.0
+PG-1329,Underground Cable,Urban,220.9,44,0.98,0.7,Vendor E,Monsoon,Regulatory Delay,267.29,88,21.0,100.0
+PG-1330,Overhead Line,Plains,326.87,18,1.41,0.61,Vendor B,Monsoon,None,431.47,18,32.0,0.0
+PG-1331,Substation,Plains,451.44,44,1.12,0.79,Vendor B,Monsoon,None,505.61,44,12.0,0.0
+PG-1332,Overhead Line,Plains,357.07,44,1.15,0.77,Vendor D,Post-Monsoon,Extreme Weather,407.06,44,14.0,0.0
+PG-1333,Substation,Hilly,62.33,31,1.02,0.63,Vendor E,Winter,None,79.16,62,27.0,100.0
+PG-1334,Overhead Line,Plains,372.15,46,1.08,0.68,Vendor A,Post-Monsoon,None,424.25,46,14.0,0.0
+PG-1335,Overhead Line,Hilly,358.56,47,1.26,0.76,Vendor A,Monsoon,None,487.64,94,36.0,100.0
+PG-1336,Substation,Forest,213.54,27,0.87,0.97,Vendor B,Post-Monsoon,None,230.62,27,8.0,0.0
+PG-1337,Substation,Urban,96.11,15,1.39,0.98,Vendor A,Winter,Regulatory Delay,127.83,15,33.0,0.0
+PG-1338,Underground Cable,Plains,273.52,17,0.86,0.86,Vendor A,Winter,None,265.31,17,-3.0,0.0
+PG-1339,Substation,Forest,244.07,39,1.3,0.86,Vendor C,Winter,Local Protests,346.58,39,42.0,0.0
+PG-1340,Substation,Plains,135.54,36,1.02,0.89,Vendor A,Post-Monsoon,Land Acquisition,140.96,36,4.0,0.0
+PG-1341,Overhead Line,Urban,393.2,15,1.01,0.99,Vendor B,Monsoon,None,397.13,15,1.0,0.0
+PG-1342,Substation,Plains,330.15,37,1.12,0.69,Vendor A,Winter,None,379.67,37,15.0,0.0
+PG-1343,Substation,Coastal,176.52,17,1.28,0.99,Vendor E,Monsoon,None,201.23,17,14.0,0.0
+PG-1344,Overhead Line,Urban,77.52,12,0.88,0.83,Vendor C,Post-Monsoon,Regulatory Delay,94.57,12,21.99,0.0
+PG-1345,Overhead Line,Coastal,50.15,16,1.28,0.92,Vendor D,Summer,Regulatory Delay,65.2,16,30.01,0.0
+PG-1346,Overhead Line,Coastal,431.95,44,0.84,0.72,Vendor B,Summer,Land Acquisition,431.95,44,0.0,0.0
+PG-1347,Overhead Line,Coastal,129.07,13,1.16,0.84,Vendor C,Summer,Extreme Weather,158.76,13,23.0,0.0
+PG-1348,Overhead Line,Coastal,95.95,44,0.99,0.81,Vendor B,Post-Monsoon,Regulatory Delay,114.18,44,19.0,0.0
+PG-1349,Overhead Line,Hilly,146.84,14,1.42,0.88,Vendor A,Post-Monsoon,Extreme Weather,205.58,28,40.0,100.0
+PG-1350,Substation,Plains,96.8,15,1.25,0.71,Vendor E,Winter,None,117.13,15,21.0,0.0
+PG-1351,Overhead Line,Plains,156.6,21,0.81,0.63,Vendor B,Winter,Extreme Weather,159.73,21,2.0,0.0
+PG-1352,Overhead Line,Hilly,455.04,25,1.23,0.83,Vendor B,Post-Monsoon,Regulatory Delay,659.81,50,45.0,100.0
+PG-1353,Underground Cable,Hilly,234.14,22,1.36,0.94,Vendor C,Monsoon,None,339.5,44,45.0,100.0
+PG-1354,Substation,Coastal,408.59,19,1.39,0.74,Vendor D,Monsoon,None,518.91,19,27.0,0.0
+PG-1355,Overhead Line,Plains,145.26,30,1.17,0.94,Vendor C,Monsoon,None,174.31,30,20.0,0.0
+PG-1356,Overhead Line,Coastal,438.12,34,1.17,0.71,Vendor E,Monsoon,None,512.6,34,17.0,0.0
+PG-1357,Substation,Hilly,462.84,13,0.95,0.68,Vendor C,Summer,Land Acquisition,610.95,26,32.0,100.0
+PG-1358,Substation,Forest,116.89,44,1.35,0.9,Vendor D,Monsoon,None,156.63,44,34.0,0.0
+PG-1359,Overhead Line,Urban,66.08,32,1.21,0.91,Vendor B,Post-Monsoon,Extreme Weather,74.67,32,13.0,0.0
+PG-1360,Overhead Line,Hilly,313.99,14,1.25,0.69,Vendor C,Summer,Land Acquisition,461.57,28,47.0,100.0
+PG-1361,Substation,Urban,402.95,19,0.96,0.72,Vendor D,Winter,None,427.13,19,6.0,0.0
+PG-1362,Substation,Plains,248.61,42,1.34,0.8,Vendor A,Summer,None,305.79,42,23.0,0.0
+PG-1363,Substation,Coastal,467.14,24,1.4,0.67,Vendor B,Post-Monsoon,None,607.28,24,30.0,0.0
+PG-1364,Overhead Line,Urban,156.22,46,0.82,0.96,Vendor A,Summer,None,143.72,46,-8.0,0.0
+PG-1365,Substation,Forest,146.04,45,1.37,0.73,Vendor C,Post-Monsoon,None,219.06,45,50.0,0.0
+PG-1366,Substation,Hilly,451.97,31,1.25,0.87,Vendor D,Monsoon,Extreme Weather,596.6,62,32.0,100.0
+PG-1367,Substation,Hilly,118.09,24,1.48,0.73,Vendor B,Monsoon,None,173.59,48,47.0,100.0
+PG-1368,Substation,Urban,113.61,12,0.92,0.83,Vendor C,Winter,None,126.11,12,11.0,0.0
+PG-1369,Overhead Line,Urban,422.19,14,1.17,0.67,Vendor D,Summer,Land Acquisition,498.18,14,18.0,0.0
+PG-1370,Overhead Line,Plains,499.57,23,1.12,0.62,Vendor D,Monsoon,None,584.5,23,17.0,0.0
+PG-1371,Underground Cable,Urban,246.0,44,1.1,0.62,Vendor E,Post-Monsoon,None,285.36,44,16.0,0.0
+PG-1372,Underground Cable,Hilly,194.24,41,0.81,0.82,Vendor E,Winter,None,215.61,82,11.0,100.0
+PG-1373,Overhead Line,Plains,116.33,42,1.35,0.83,Vendor C,Winter,None,153.56,42,32.0,0.0
+PG-1374,Overhead Line,Plains,499.44,36,1.08,0.87,Vendor E,Summer,Land Acquisition,539.4,36,8.0,0.0
+PG-1375,Substation,Coastal,231.62,29,1.08,0.8,Vendor E,Winter,Land Acquisition,254.78,29,10.0,0.0
+PG-1376,Substation,Hilly,420.16,18,0.9,0.98,Vendor B,Monsoon,None,466.38,36,11.0,100.0
+PG-1377,Overhead Line,Plains,350.0,20,0.94,0.62,Vendor B,Monsoon,None,378.0,20,8.0,0.0
+PG-1378,Underground Cable,Plains,387.43,22,1.34,0.67,Vendor A,Monsoon,Extreme Weather,492.04,44,27.0,100.0
+PG-1379,Overhead Line,Hilly,88.6,18,1.07,0.75,Vendor E,Monsoon,Regulatory Delay,124.04,36,40.0,100.0
+PG-1380,Substation,Hilly,160.86,12,1.12,0.9,Vendor C,Winter,Land Acquisition,215.55,24,34.0,100.0
+PG-1381,Substation,Coastal,269.03,13,1.33,0.89,Vendor A,Post-Monsoon,Regulatory Delay,357.81,13,33.0,0.0
+PG-1382,Overhead Line,Plains,365.4,14,1.36,0.81,Vendor C,Post-Monsoon,Local Protests,489.64,14,34.0,0.0
+PG-1383,Substation,Coastal,171.41,36,1.34,0.8,Vendor A,Winter,Land Acquisition,210.83,36,23.0,0.0
+PG-1384,Substation,Urban,399.67,34,1.3,0.62,Vendor B,Summer,Land Acquisition,503.58,34,26.0,0.0
+PG-1385,Substation,Urban,205.89,41,0.99,0.98,Vendor E,Summer,Land Acquisition,205.89,41,0.0,0.0
+PG-1386,Overhead Line,Hilly,330.25,38,1.1,0.99,Vendor C,Monsoon,Local Protests,429.32,76,30.0,100.0
+PG-1387,Substation,Hilly,88.53,36,1.14,0.74,Vendor D,Summer,Land Acquisition,115.09,72,30.0,100.0
+PG-1388,Overhead Line,Plains,377.5,36,1.49,0.79,Vendor D,Monsoon,None,494.52,36,31.0,0.0
+PG-1389,Underground Cable,Plains,489.39,30,0.91,0.96,Vendor A,Post-Monsoon,Land Acquisition,474.71,30,-3.0,0.0
+PG-1390,Substation,Hilly,181.62,44,0.85,0.86,Vendor C,Summer,None,221.58,88,22.0,100.0
+PG-1391,Substation,Urban,354.82,25,1.11,0.83,Vendor D,Post-Monsoon,Extreme Weather,393.85,25,11.0,0.0
+PG-1392,Overhead Line,Plains,412.22,21,1.42,0.6,Vendor E,Monsoon,None,548.25,21,33.0,0.0
+PG-1393,Substation,Plains,411.83,20,0.95,0.71,Vendor E,Summer,None,436.54,20,6.0,0.0
+PG-1394,Overhead Line,Forest,343.6,17,1.16,0.7,Vendor E,Post-Monsoon,None,446.68,17,30.0,0.0
+PG-1395,Underground Cable,Coastal,420.03,43,1.01,0.9,Vendor A,Summer,None,432.63,43,3.0,0.0
+PG-1396,Overhead Line,Urban,363.36,30,1.21,0.73,Vendor C,Summer,Local Protests,465.1,30,28.0,0.0
+PG-1397,Substation,Forest,424.0,41,0.97,0.89,Vendor D,Monsoon,Land Acquisition,487.6,82,15.0,100.0
+PG-1398,Substation,Forest,286.58,19,0.83,0.89,Vendor A,Post-Monsoon,None,309.51,19,8.0,0.0
+PG-1399,Underground Cable,Urban,307.37,34,1.38,1.0,Vendor A,Winter,Local Protests,365.77,34,19.0,0.0
+PG-1400,Overhead Line,Plains,160.65,18,1.21,0.73,Vendor E,Monsoon,Regulatory Delay,212.06,36,32.0,100.0
+PG-1401,Overhead Line,Plains,399.26,36,1.15,0.72,Vendor D,Winter,None,463.14,36,16.0,0.0
+PG-1402,Overhead Line,Hilly,223.86,39,1.48,0.88,Vendor A,Winter,Local Protests,320.12,78,43.0,100.0
+PG-1403,Substation,Plains,340.83,21,1.49,0.68,Vendor D,Monsoon,Regulatory Delay,501.02,42,47.0,100.0
+PG-1404,Underground Cable,Hilly,453.94,26,1.24,0.86,Vendor A,Winter,None,599.2,52,32.0,100.0
+PG-1405,Overhead Line,Plains,238.69,16,1.14,0.78,Vendor D,Summer,None,272.11,16,14.0,0.0
+PG-1406,Substation,Urban,385.75,17,1.09,0.72,Vendor A,Winter,Extreme Weather,435.9,17,13.0,0.0
+PG-1407,Underground Cable,Plains,274.41,40,1.32,0.96,Vendor E,Winter,Regulatory Delay,359.48,40,31.0,0.0
+PG-1408,Overhead Line,Forest,88.23,28,0.88,0.82,Vendor B,Winter,None,99.7,28,13.0,0.0
+PG-1409,Overhead Line,Coastal,495.89,16,1.15,0.89,Vendor A,Post-Monsoon,Land Acquisition,550.44,16,11.0,0.0
+PG-1410,Overhead Line,Hilly,445.78,42,1.47,0.72,Vendor A,Monsoon,Land Acquisition,655.3,84,47.0,100.0
+PG-1411,Underground Cable,Coastal,242.8,25,1.16,0.78,Vendor A,Post-Monsoon,Regulatory Delay,310.78,25,28.0,0.0
+PG-1412,Substation,Hilly,307.94,21,1.34,0.89,Vendor D,Winter,Land Acquisition,418.8,42,36.0,100.0
+PG-1413,Overhead Line,Urban,323.47,14,1.04,0.67,Vendor A,Post-Monsoon,Extreme Weather,362.29,14,12.0,0.0
+PG-1414,Substation,Hilly,275.06,47,1.4,0.99,Vendor A,Winter,None,374.08,47,36.0,0.0
+PG-1415,Substation,Plains,237.87,42,1.1,0.61,Vendor B,Post-Monsoon,Extreme Weather,278.31,42,17.0,0.0
+PG-1416,Underground Cable,Forest,399.1,35,1.03,0.78,Vendor B,Winter,None,482.91,35,21.0,0.0
+PG-1417,Overhead Line,Plains,476.49,23,1.25,0.98,Vendor D,Winter,None,538.43,23,13.0,0.0
+PG-1418,Underground Cable,Hilly,161.63,12,0.96,0.77,Vendor B,Monsoon,None,193.96,24,20.0,100.0
+PG-1419,Overhead Line,Urban,119.71,15,1.1,0.99,Vendor D,Summer,Land Acquisition,125.7,15,5.0,0.0
+PG-1420,Overhead Line,Hilly,364.05,23,1.03,0.78,Vendor E,Summer,None,447.78,46,23.0,100.0
+PG-1421,Overhead Line,Plains,104.87,41,0.87,0.88,Vendor E,Summer,Regulatory Delay,115.36,41,10.0,0.0
+PG-1422,Underground Cable,Hilly,243.61,24,0.92,0.98,Vendor B,Summer,None,272.84,24,12.0,0.0
+PG-1423,Underground Cable,Urban,282.91,19,1.4,0.92,Vendor C,Winter,None,373.44,19,32.0,0.0
+PG-1424,Substation,Hilly,456.96,42,1.42,0.62,Vendor E,Monsoon,None,676.3,84,48.0,100.0
+PG-1425,Overhead Line,Hilly,445.37,14,1.31,0.92,Vendor E,Winter,Regulatory Delay,654.69,28,47.0,100.0
+PG-1426,Overhead Line,Hilly,471.77,12,1.48,0.6,Vendor B,Winter,None,712.37,24,51.0,100.0
+PG-1427,Overhead Line,Urban,184.75,15,0.97,0.96,Vendor B,Winter,Regulatory Delay,208.77,15,13.0,0.0
+PG-1428,Overhead Line,Forest,341.64,26,1.46,0.64,Vendor D,Monsoon,None,502.21,26,47.0,0.0
+PG-1429,Substation,Urban,327.87,33,1.04,0.73,Vendor A,Monsoon,None,360.66,33,10.0,0.0
+PG-1430,Overhead Line,Plains,219.19,39,1.3,0.71,Vendor C,Monsoon,None,293.71,39,34.0,0.0
+PG-1431,Substation,Urban,489.6,41,1.43,0.72,Vendor E,Summer,None,636.48,41,30.0,0.0
+PG-1432,Overhead Line,Forest,219.73,40,1.45,0.62,Vendor E,Winter,None,323.0,40,47.0,0.0
+PG-1433,Substation,Plains,129.99,15,0.96,0.75,Vendor C,Summer,Land Acquisition,149.49,15,15.0,0.0
+PG-1434,Substation,Coastal,70.72,36,1.04,0.82,Vendor D,Monsoon,Regulatory Delay,85.57,72,21.0,100.0
+PG-1435,Substation,Plains,322.02,31,1.18,0.93,Vendor E,Monsoon,None,357.44,31,11.0,0.0
+PG-1436,Overhead Line,Urban,140.57,43,1.21,0.63,Vendor E,Winter,None,171.5,43,22.0,0.0
+PG-1437,Overhead Line,Hilly,206.08,36,0.99,0.95,Vendor C,Monsoon,None,259.66,72,26.0,100.0
+PG-1438,Underground Cable,Plains,156.14,33,0.81,0.64,Vendor A,Post-Monsoon,None,157.7,33,1.0,0.0
+PG-1439,Substation,Hilly,482.23,42,1.22,0.61,Vendor E,Summer,Regulatory Delay,728.17,84,51.0,100.0
+PG-1440,Substation,Urban,341.73,19,1.22,0.98,Vendor E,Monsoon,None,382.74,19,12.0,0.0
+PG-1441,Substation,Plains,303.08,21,1.25,0.96,Vendor D,Post-Monsoon,None,345.51,21,14.0,0.0
+PG-1442,Overhead Line,Plains,439.14,24,1.12,0.96,Vendor D,Summer,None,469.88,24,7.0,0.0
+PG-1443,Overhead Line,Plains,474.72,24,1.03,0.69,Vendor E,Summer,Local Protests,526.94,24,11.0,0.0
+PG-1444,Overhead Line,Hilly,441.82,47,1.2,0.92,Vendor D,Winter,None,565.53,94,28.0,100.0
+PG-1445,Substation,Plains,246.6,33,1.27,0.83,Vendor A,Winter,None,293.45,33,19.0,0.0
+PG-1446,Overhead Line,Urban,113.79,34,1.05,0.65,Vendor A,Winter,None,128.58,34,13.0,0.0
+PG-1447,Substation,Hilly,299.11,34,1.06,0.74,Vendor B,Summer,None,376.88,68,26.0,100.0
+PG-1448,Substation,Urban,192.28,14,1.23,0.75,Vendor B,Winter,Extreme Weather,228.81,14,19.0,0.0
+PG-1449,Substation,Plains,294.24,36,1.25,0.88,Vendor C,Monsoon,None,370.74,36,26.0,0.0
+PG-1450,Underground Cable,Plains,127.43,47,0.99,0.91,Vendor E,Post-Monsoon,None,129.98,47,2.0,0.0
+PG-1451,Overhead Line,Hilly,162.17,22,1.4,0.71,Vendor E,Post-Monsoon,Extreme Weather,233.52,44,44.0,100.0
+PG-1452,Overhead Line,Plains,256.91,38,0.98,0.64,Vendor C,Post-Monsoon,None,308.29,38,20.0,0.0
+PG-1453,Overhead Line,Plains,383.07,42,0.98,0.65,Vendor B,Summer,None,421.38,42,10.0,0.0
+PG-1454,Overhead Line,Plains,247.5,35,0.92,0.69,Vendor D,Monsoon,Regulatory Delay,294.52,70,19.0,100.0
+PG-1455,Underground Cable,Plains,85.94,36,0.89,0.63,Vendor B,Winter,None,91.1,36,6.0,0.0
+PG-1456,Underground Cable,Plains,347.53,32,1.12,0.61,Vendor A,Monsoon,None,410.09,32,18.0,0.0
+PG-1457,Overhead Line,Plains,436.69,17,1.47,0.87,Vendor B,Winter,None,554.6,17,27.0,0.0
+PG-1458,Overhead Line,Urban,138.53,28,1.13,0.75,Vendor E,Monsoon,None,157.92,28,14.0,0.0
+PG-1459,Substation,Plains,391.78,20,0.94,0.71,Vendor C,Winter,Land Acquisition,454.46,40,16.0,100.0
+PG-1460,Overhead Line,Hilly,188.72,13,0.9,0.68,Vendor C,Post-Monsoon,Regulatory Delay,269.87,26,43.0,100.0
+PG-1461,Substation,Plains,246.76,47,1.5,0.76,Vendor A,Monsoon,Regulatory Delay,360.27,94,46.0,100.0
+PG-1462,Overhead Line,Forest,189.55,21,0.81,0.77,Vendor E,Post-Monsoon,None,210.4,21,11.0,0.0
+PG-1463,Overhead Line,Urban,332.98,18,1.23,0.91,Vendor B,Winter,None,379.6,18,14.0,0.0
+PG-1464,Overhead Line,Plains,103.93,23,1.26,0.98,Vendor E,Winter,None,118.48,23,14.0,0.0
+PG-1465,Overhead Line,Plains,406.15,31,1.12,0.97,Vendor C,Winter,Regulatory Delay,528.0,31,30.0,0.0
+PG-1466,Underground Cable,Plains,246.73,16,1.29,0.95,Vendor C,Summer,None,310.88,16,26.0,0.0
+PG-1467,Underground Cable,Hilly,333.59,14,1.47,0.86,Vendor A,Winter,None,477.03,28,43.0,100.0
+PG-1468,Overhead Line,Hilly,239.45,21,0.83,0.69,Vendor B,Summer,Land Acquisition,277.76,42,16.0,100.0
+PG-1469,Overhead Line,Plains,314.3,38,0.86,0.71,Vendor C,Summer,None,352.02,38,12.0,0.0
+PG-1470,Substation,Urban,59.83,47,1.09,0.97,Vendor B,Post-Monsoon,Local Protests,62.82,47,5.0,0.0
+PG-1471,Underground Cable,Plains,496.45,19,1.14,0.9,Vendor B,Summer,Regulatory Delay,610.63,19,23.0,0.0
+PG-1472,Overhead Line,Urban,297.89,15,0.94,0.66,Vendor B,Winter,None,318.74,15,7.0,0.0
+PG-1473,Substation,Plains,65.71,19,1.06,0.68,Vendor C,Monsoon,None,80.17,19,22.01,0.0
+PG-1474,Substation,Plains,83.61,46,1.06,0.62,Vendor E,Winter,Local Protests,95.32,46,14.01,0.0
+PG-1475,Overhead Line,Plains,487.26,33,1.49,0.89,Vendor C,Monsoon,None,672.42,33,38.0,0.0
+PG-1476,Overhead Line,Forest,465.82,19,1.16,0.96,Vendor E,Winter,Extreme Weather,568.3,19,22.0,0.0
+PG-1477,Overhead Line,Coastal,254.05,45,1.38,0.71,Vendor B,Winter,None,325.18,45,28.0,0.0
+PG-1478,Overhead Line,Hilly,85.47,13,1.4,0.9,Vendor E,Monsoon,Extreme Weather,117.95,26,38.0,100.0
+PG-1479,Substation,Plains,448.21,43,0.98,0.77,Vendor D,Monsoon,None,475.1,43,6.0,0.0
+PG-1480,Overhead Line,Plains,109.89,17,1.38,0.71,Vendor C,Summer,Local Protests,151.65,34,38.0,100.0
+PG-1481,Substation,Hilly,306.76,36,1.2,1.0,Vendor E,Post-Monsoon,Regulatory Delay,426.4,72,39.0,100.0
+PG-1482,Underground Cable,Urban,59.37,33,1.44,0.8,Vendor E,Winter,None,75.99,33,27.99,0.0
+PG-1483,Overhead Line,Hilly,322.22,22,1.19,0.69,Vendor B,Post-Monsoon,None,431.77,44,34.0,100.0
+PG-1484,Overhead Line,Plains,379.97,12,1.5,0.84,Vendor A,Post-Monsoon,None,493.96,12,30.0,0.0
+PG-1485,Substation,Plains,345.04,24,1.32,0.64,Vendor D,Post-Monsoon,Local Protests,438.2,24,27.0,0.0
+PG-1486,Substation,Hilly,114.52,46,0.97,0.69,Vendor C,Winter,Extreme Weather,152.31,92,33.0,100.0
+PG-1487,Substation,Coastal,456.57,31,1.18,0.85,Vendor E,Winter,None,520.49,31,14.0,0.0
+PG-1488,Substation,Hilly,399.43,38,1.09,0.83,Vendor A,Winter,None,499.29,76,25.0,100.0
+PG-1489,Overhead Line,Urban,225.96,35,1.4,0.75,Vendor C,Summer,None,309.57,35,37.0,0.0
+PG-1490,Substation,Coastal,269.19,18,1.46,0.65,Vendor C,Monsoon,None,384.94,36,43.0,100.0
+PG-1491,Overhead Line,Urban,495.91,12,1.31,0.72,Vendor A,Winter,None,614.93,12,24.0,0.0
+PG-1492,Overhead Line,Urban,312.56,42,0.96,0.61,Vendor C,Post-Monsoon,None,375.07,42,20.0,0.0
+PG-1493,Overhead Line,Forest,130.63,41,1.07,0.97,Vendor B,Monsoon,Land Acquisition,154.14,82,18.0,100.0
+PG-1494,Underground Cable,Hilly,351.47,45,1.33,0.93,Vendor E,Winter,None,470.97,90,34.0,100.0
+PG-1495,Overhead Line,Hilly,57.47,13,1.0,0.86,Vendor B,Post-Monsoon,None,68.96,26,19.99,100.0
+PG-1496,Underground Cable,Urban,170.46,36,1.12,0.98,Vendor D,Winter,None,182.39,36,7.0,0.0
+PG-1497,Underground Cable,Hilly,185.06,43,0.88,0.66,Vendor E,Post-Monsoon,None,222.07,86,20.0,100.0
+PG-1498,Underground Cable,Plains,452.66,22,0.89,0.85,Vendor B,Post-Monsoon,Regulatory Delay,506.98,22,12.0,0.0
+PG-1499,Substation,Coastal,75.91,28,1.44,0.79,Vendor E,Monsoon,None,97.16,28,27.99,0.0
+PG-1500,Underground Cable,Hilly,225.35,47,1.0,0.76,Vendor D,Monsoon,None,277.18,94,23.0,100.0
